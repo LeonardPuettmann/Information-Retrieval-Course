@@ -1,2 +1,5 @@
 nltk
 spacy
+elasticsearch
+mistralai
+dotenv

@@ -1,8 +1,0 @@
-setup.py
-information_retrieval_course.egg-info/PKG-INFO
-information_retrieval_course.egg-info/SOURCES.txt
-information_retrieval_course.egg-info/dependency_links.txt
-information_retrieval_course.egg-info/top_level.txt
-util/__init__.py
-util/inverted_index.py
-util/load_lotr.py
